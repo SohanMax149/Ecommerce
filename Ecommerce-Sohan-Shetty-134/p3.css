@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box
+}
+body {
+  font-family: Verdana, sans-serif; 
+  margin:0;
+  background-color: #ffffff;
+}
+.container {
+  margin-top: 100px;
+}
+.col-md-5 .d-block {
+  margin-top: 50px;
+  max-width: 60%;
+  max-height: 55%;
+}
+.OnePlus {
+  background-color: orange;
+  width: 50px;
+  color: black;
+  font-size: 12px;
+  font-weight: bold;
+}
+.col-md-7 {
+  margin-top: 100px;
+}
+.col-md-7 h2 {
+  color: #555;
+}
+.stars {
+  height: 15px;
+}
+.price {
+  color: #B12704!important;
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+input {
+  border: 1px solid #ccc;
+  height: 33px;
+  text-align: center;
+  width: 30px;
+}
+form {
+  margin-top: 50px;
+}
+.footer {
+  margin-top: 120px;
+  color: #ffffff;
+  background: #232F3E;
+}
+.social-media {
+  margin-top: 40px;
+  text-align: center;
+}
+.footer h4 {
+  margin-left: 675px;
+  font-size: 12px;
